@@ -1,4 +1,4 @@
-<h1 align="center"> Oii, eu sou a Mafe 💖 </h1>
+<h1 align="center"> Oii, eu sou a Mafe </h1>
 
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnQ1NWsyb2Y0bjVsZmRvbGUyanA0bm56MnMyOXRvbDF6YTVkdjg0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZYi6VZaUJzrNiGvJ8T/giphy.gif" width="250">
