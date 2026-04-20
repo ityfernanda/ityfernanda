@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  💻 Estudante de Sistemas de Informação   
+  💻 Técnica em Informática para Internet pelo IFMS | Graduanda em Sistemas de Informação (5º semestre)
 </p>
 
 ---
