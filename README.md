@@ -6,8 +6,7 @@
 
 ---
 
-## 💖 Tecnologias que estou aprendendo
-
+## 💖 Tecnologias 
 <p>
   <img src="https://skillicons.dev/icons?i=c,python,html,css,js" />
 </p>
